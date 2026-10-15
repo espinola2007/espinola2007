@@ -1,10 +1,3 @@
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/espinola2007/espinola2007/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/espinola2007/espinola2007/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
@@ -37,9 +30,5 @@
 ### 💳 Sistema de Pagamento para Loja<br>Projeto desenvolvido para praticar conceitos de programação utilizando C# e .NET.<br><br>
 ### 🛍️ WePink<br>Projeto acadêmico de desenvolvimento de um site comercial utilizando PHP, HTML, CSS e JSON, desenvolvido em equipe.<br><br>
 ### 🧑‍💻 Lista de Exercícios C#<br>Repositório com exercícios desenvolvidos durante meus estudos de C#.<br><br>---<br><br>## 🎯 Áreas de interesse<br><br>💻 Desenvolvimento de Software  <br>☁️ Salesforce  <br>🤖 Inteligência Artificial  <br>📊 Dados  <br>🌐 Desenvolvimento Web<br><br>---<br><br>## 📫 Onde me encontrar<br><br>💼 [LinkedIn](https://www.linkedin.com/in/vit%C3%B3ria-carneiro-823600398/)<br><br><br>---<br><br>> 🌱 Em constante aprendizado, construindo projetos e evoluindo um código de cada vez.</p>
-
-###
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/espinola2007/espinola2007/snake-output/snake.svg" alt="Snake animation" />
 
 ###
